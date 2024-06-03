@@ -1,4 +1,5 @@
 ---
+
 - name: Write hostname
   hosts: all
   tasks:
